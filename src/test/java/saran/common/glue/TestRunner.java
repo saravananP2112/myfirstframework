@@ -17,7 +17,7 @@ import io.cucumber.junit.CucumberOptions;
 		glue= "com/sample/glue",
 		monochrome = true,
 		dryRun= true,
-		tags = "@Saran"
+		tags = "@saran"
 		) 
 public class TestRunner {
 
